@@ -1,0 +1,56 @@
+html, body {
+
+  background-color: #dbe5e6;
+  
+  height: 100%;
+  width: 100%;
+  padding:10px
+
+  flex-direction: column;
+
+}
+body{
+ display: flex; 
+  padding: 10px; 
+}
+
+h1{
+    text-align: center;
+}
+
+
+nav{
+   background-color: #242424;
+  border: solid 5px;
+    text-align: center;
+}
+
+nav a{
+  margin-right: 10px;
+  color: #c7e4ff;
+}
+nav a:hover{
+  background-color: #b0b0b0;
+}
+
+.ima1{
+   text-align: center;
+}
+.pie{
+  text-align: center;
+}
+
+.ima2{
+  text-align: center;
+}
+
+.ima3{
+  text-align: center;
+  width="250"
+  height="230"
+}
+
+.video{
+   text-align: center;
+ 
+}
